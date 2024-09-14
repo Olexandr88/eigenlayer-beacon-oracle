@@ -11,7 +11,7 @@ Currently, the Eigenlayer Beacon Oracle is deployed on the following chains:
 
 Example transaction:
 - Transaction: https://etherscan.io/tx/0x9cd868f8a939a9a35fcb08a5f711c1477ad357b32c196be807f990a7d7a14d57#eventlog
-- Reference Slot: https://goerli.beaconcha.in/slot/8791805
+- Reference Slot: https://beaconcha.in/slot/8791805
 
 ## Contracts
 
